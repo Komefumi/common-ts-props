@@ -15,6 +15,8 @@
   "author": "Komefumi <komefumi@protonmail.ch>",
   "license": "ISC",
   "dependencies": {
+    "typescript": "^4.5.4",
+    "@types/core-js": "^2.5.5",
     "@types/react": "^17.0.37",
     "react": "^17.0.2"
   },
