@@ -1,0 +1,17 @@
+{
+  "name": "common-ts-props",
+  "version": "0.0.1",
+  "description": "A set of common TypeScript props",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript",
+    "interfaces",
+    "props",
+    "React"
+  ],
+  "author": "Komefumi <komefumi@protonmail.ch>",
+  "license": "ISC"
+}
