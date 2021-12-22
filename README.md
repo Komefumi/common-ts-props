@@ -1,5 +1,11 @@
 # Common TS Props
 
+```bash
+npm install --save-dev common-ts-props
+# or
+yarn add --dev common-ts-props
+```
+
 I made this because I was repeatedly remaking the same interface throughout different React.js projects:
 
 ```typescript
