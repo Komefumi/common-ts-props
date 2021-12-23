@@ -1,6 +1,6 @@
 {
   "name": "common-ts-props",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A set of common TypeScript props",
   "main": "index.js",
   "scripts": {
